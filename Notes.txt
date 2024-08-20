@@ -1,0 +1,44 @@
+Self Learning Additional Content Apart from Roadmap
+
+Basic Js:- 
+1.Array Methods
+2.String Methods
+3.Math Methods
+4.Number Methods
+5.BigInt, Symbol
+6.Closure
+7.Function scoping and hoisting
+8.Array.prototype Methods
+9.Call,Apply,Bind
+10.Object.keys and Object.entries Methods
+
+HTML:-
+1.Semantic Elements
+2.Video Tag, Canvas Tag
+
+CSS:- 
+1.Overflow
+2.Media Queries
+3.Animations and transform
+4.Grid
+5.Opacity
+6.Measurements
+
+CSS Frameworks:- 
+1.Bootstrap
+2.Saas
+
+Practical:-
+1.Coding practice (codekata,leetcode,hackerrank)
+2.html,css practice(Webkata,codepen,codesandbox,flexbox froggy,css dinner, css battle,
+grid gardens, flexbox adventures,flexbox defenses)
+
+Interview Technical:- 
+1.Landing page
+2.create a circle
+3.Poisiton with Opacity
+4.Pattern based problem
+5.Array method based problem
+6.Company problems(FAANG)
+7.RWD
+8.Figma to html and css (refer landing page session) 
