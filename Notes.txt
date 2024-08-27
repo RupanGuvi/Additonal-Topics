@@ -24,6 +24,13 @@ CSS:-
 5.Opacity
 6.Measurements
 
+TailWind CSS:- 
+1.Grid
+2.Container
+3.Transition,Trnaslation,Animations
+4.Customization
+
+
 CSS Frameworks:- 
 1.Bootstrap
 2.Saas
@@ -32,6 +39,8 @@ Practical:-
 1.Coding practice (codekata,leetcode,hackerrank)
 2.html,css practice(Webkata,codepen,codesandbox,flexbox froggy,css dinner, css battle,
 grid gardens, flexbox adventures,flexbox defenses)
+3.Tailwind projects (landing page, portfolio)
+4.Using Tailwind CLI Method / Using POSTCSS method
 
 Interview Technical:- 
 1.Landing page
@@ -42,3 +51,5 @@ Interview Technical:-
 6.Company problems(FAANG)
 7.RWD
 8.Figma to html and css (refer landing page session) 
+9.Figma to html and Tailwind css (refer landing page task)
+10.Gradients,Borders,Animations.
