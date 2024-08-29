@@ -14,6 +14,7 @@ Js:-
 11.Deep Copy vs Shallow Copy
 12.Event Bubbling
 13.Event Delegation
+14.SetInterval
 
 HTML:-
 1.Semantic Elements
@@ -47,6 +48,8 @@ grid gardens, flexbox adventures,flexbox defenses)
 3.Tailwind projects (landing page, portfolio)
 4.Using Tailwind CLI Method / Using POSTCSS method
 5.Dom event based tasks
+6.Dom based Games (hangman/memmoryflip/x0/puzzle/Dice Game)
+7.Timer/countdown/alarm
 
 Interview Technical logical:- 
 1.Landing page
