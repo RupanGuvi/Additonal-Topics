@@ -1,6 +1,6 @@
 Self Learning Additional Content Apart from Roadmap
 
-Basic Js:- 
+Js:- 
 1.Array Methods
 2.String Methods
 3.Math Methods
@@ -11,6 +11,9 @@ Basic Js:-
 8.Array.prototype Methods
 9.Call,Apply,Bind
 10.Object.keys and Object.entries Methods
+11.Deep Copy vs Shallow Copy
+12.Event Bubbling
+13.Event Delegation
 
 HTML:-
 1.Semantic Elements
@@ -34,6 +37,8 @@ TailWind CSS:-
 CSS Frameworks:- 
 1.Bootstrap
 2.Saas
+ 
+
 
 Practical:-
 1.Coding practice (codekata,leetcode,hackerrank)
@@ -41,8 +46,9 @@ Practical:-
 grid gardens, flexbox adventures,flexbox defenses)
 3.Tailwind projects (landing page, portfolio)
 4.Using Tailwind CLI Method / Using POSTCSS method
+5.Dom event based tasks
 
-Interview Technical:- 
+Interview Technical logical:- 
 1.Landing page
 2.create a circle
 3.Poisiton with Opacity
@@ -53,3 +59,5 @@ Interview Technical:-
 8.Figma to html and css (refer landing page session) 
 9.Figma to html and Tailwind css (refer landing page task)
 10.Gradients,Borders,Animations.
+11.Color change.
+12.Event Based Styles.
