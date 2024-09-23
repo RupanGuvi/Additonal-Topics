@@ -16,6 +16,10 @@ Js:-
 13.Event Delegation
 14.SetInterval
 15. Weak Mapset
+16. Shadowing
+17. ES5 VS ES6
+18. Loadsh
+
 
 HTML:-
 1.Semantic Elements
