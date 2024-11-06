@@ -69,3 +69,58 @@ Interview Technical logical:-
 10.Gradients,Borders,Animations.
 11.Color change.
 12.Event Based Styles.
+
+------------------------------------------------------------------------------
+Topics / Concepts should know before going to interview
+
+Javascript:- 
+1. JS 
+2.Array methods
+3. API 
+4. Destructuring (Array and Object)
+5. DOM
+6. Callback ,callback hell
+7. Eventloop,web api,call stack,queue
+8.promise
+9.Async-await with error handling
+10.Hoisting,closure,currying
+11.ES5 VS ES6
+12.call,bind,apply
+13.pattern based program
+14.Array method program
+15. Sorting program
+
+React:- 
+1.React 
+2.Library vs framework
+3.Virtual Dom
+4.JSX
+5.Component ,reusability
+6.props vs state ,props drilling
+7.usecontext
+8.useeffect ,lifecycle,[]
+9.Conditional rendering
+10.Hooks(usestate,useeffect,usecontext,useparams,usenavigation,usehistory,usereducer, custom hooks)
+11.api fetch (fetch,axios)
+12.counter function
+13.CRUD
+14.Redux toolkit
+15.GSM (Global State Management)
+
+DB:-
+1.RDBMS VS NRDMS
+2.MongoDB Queries ,operators
+3. Aggregation,replicas
+4.Mongoose,Mongoclient,Atlas,Compass
+
+Node:- 
+1.Nodejs
+2.Express js
+3.CORS
+4.JWT,Bycrypt,salt,Morgan
+5. Middleware
+6.Custom Middleware
+7.MVC Pattern
+8. How to start server
+9. CRUD using expressjs
+10. CRUD Using Node Js
